@@ -1,0 +1,14 @@
+C:\Users\vickm\source\repos\BreakThing\BreakThing\bin\Debug\netcoreapp3.1\BreakThing.exe
+C:\Users\vickm\source\repos\BreakThing\BreakThing\bin\Debug\netcoreapp3.1\BreakThing.deps.json
+C:\Users\vickm\source\repos\BreakThing\BreakThing\bin\Debug\netcoreapp3.1\BreakThing.runtimeconfig.json
+C:\Users\vickm\source\repos\BreakThing\BreakThing\bin\Debug\netcoreapp3.1\BreakThing.runtimeconfig.dev.json
+C:\Users\vickm\source\repos\BreakThing\BreakThing\bin\Debug\netcoreapp3.1\BreakThing.dll
+C:\Users\vickm\source\repos\BreakThing\BreakThing\bin\Debug\netcoreapp3.1\BreakThing.pdb
+C:\Users\vickm\source\repos\BreakThing\BreakThing\obj\Debug\netcoreapp3.1\BreakThing.csproj.AssemblyReference.cache
+C:\Users\vickm\source\repos\BreakThing\BreakThing\obj\Debug\netcoreapp3.1\BreakThing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vickm\source\repos\BreakThing\BreakThing\obj\Debug\netcoreapp3.1\BreakThing.AssemblyInfoInputs.cache
+C:\Users\vickm\source\repos\BreakThing\BreakThing\obj\Debug\netcoreapp3.1\BreakThing.AssemblyInfo.cs
+C:\Users\vickm\source\repos\BreakThing\BreakThing\obj\Debug\netcoreapp3.1\BreakThing.csproj.CoreCompileInputs.cache
+C:\Users\vickm\source\repos\BreakThing\BreakThing\obj\Debug\netcoreapp3.1\BreakThing.dll
+C:\Users\vickm\source\repos\BreakThing\BreakThing\obj\Debug\netcoreapp3.1\BreakThing.pdb
+C:\Users\vickm\source\repos\BreakThing\BreakThing\obj\Debug\netcoreapp3.1\BreakThing.genruntimeconfig.cache

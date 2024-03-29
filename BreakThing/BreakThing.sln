@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakThing", "BreakThing\BreakThing.csproj", "{B7AC39E1-620C-4DE0-9CA9-4CBB3F39376B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7AC39E1-620C-4DE0-9CA9-4CBB3F39376B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7AC39E1-620C-4DE0-9CA9-4CBB3F39376B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7AC39E1-620C-4DE0-9CA9-4CBB3F39376B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7AC39E1-620C-4DE0-9CA9-4CBB3F39376B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0D9AF5E-72A8-45F2-A13F-A171BF70B7A6}
+	EndGlobalSection
+EndGlobal
